@@ -1,0 +1,3 @@
+geometry_msgs/Point target_pt
+---
+float32 current_dist
